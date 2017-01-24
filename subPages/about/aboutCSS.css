@@ -1,0 +1,79 @@
+<style>
+	/*--------------------------- Meny*/
+	ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		width: 100%
+		
+	}
+				
+	a:link, a:visited {
+		display: block;
+		width: 94%;
+		background-color: black;
+		color: green;
+		margin-left: 3%;
+		text-decoration: none;
+		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+		height: 3%;
+	}
+				
+	a:hover, a:active {
+		background-color: white;
+	}
+				
+	li {
+		float: left;
+		width: 25%;
+	}
+	/*--------------------------------*/
+
+	body {
+	    background: #00ff00 url("bilder/bridge.jpeg")  fixed center;
+		background-size:100% 100%; 
+	} 
+	
+	.bottomLeft{
+		width: 43%;
+		height: 35%;
+		float: right;
+		margin-right:2%;	
+	}
+	
+	
+	
+	
+	h1 {
+	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+	font-size: 140%;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+	h3 {
+		font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+		font-size: 90%;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 500;
+		line-height: 15.4px;
+	}
+	
+	
+	
+	.bottomPic{
+		width: 15%;
+		height: 20%;
+		margin-left: 2%;
+		margin-right:35%;
+		margin-top: 40%;
+		float: right;
+    }
+	
+
+
+</syle>
