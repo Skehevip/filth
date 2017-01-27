@@ -1,0 +1,53 @@
+
+	/*--------------------------- Meny*/
+	ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		width: 100%
+		
+	}
+				
+	a:link, a:visited {
+		display: block;
+		width: 94%;
+		background-color: black;
+		color: green;
+		margin-left: 3%;
+		text-decoration: none;
+		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+		height: 3%;
+	}
+				
+	a:hover, a:active {
+		background-color: white;
+	}
+				
+	li {
+		float: left;
+		width: 25%;
+	}
+	/*--------------------------------*/
+	
+	body {
+		background: url("bilder/niceReality.jpeg")  fixed center;
+		background-size:100% 100%; 
+	} 
+	
+	
+	.bilder{
+	width:100%;
+	}
+	
+	
+	.box{
+	width:100%;
+	}
+	.musikk{
+	width:20%;
+	margin-top:30%;
+
+	}
+	

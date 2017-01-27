@@ -1,0 +1,62 @@
+
+	/*--------------------------- Meny*/
+	ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		width: 100%
+		
+	}
+				
+	a:link, a:visited {
+		display: block;
+		width: 94%;
+		background-color: black;
+		color: green;
+		margin-left: 3%;
+		text-decoration: none;
+		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+		height: 3%;
+	}
+				
+	a:hover, a:active {
+		background-color: white;
+	}
+				
+	li {
+		float: left;
+		width: 25%;
+	}
+	/*--------------------------------*/
+	
+	body {
+		background: url("bilder/alko.jpg")  fixed center;
+		background-size:100% 100%; 
+	} 
+	
+	.box{
+		width:100%;
+	}
+	
+	
+	
+	.bilder{
+		width:100%;	
+	}
+	
+	
+	.innhold{
+	width:15%;
+	margin-top:2%;
+	margin-left:15%;
+	height: 30%;
+		
+		
+		
+	}
+	
+	
+	
+	
